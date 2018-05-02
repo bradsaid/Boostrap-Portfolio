@@ -1,0 +1,40 @@
+body {
+    width: 960px;
+    background-color: black;
+
+}
+
+
+.maincontent {
+    clear: both;
+    background-color: #ffffff;
+    border-color: #dddddd;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: right;
+    display: block;
+    padding: 8px;
+    
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.name {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 18px;
+    text-align: center;
+    float: left;
+  }
